@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4e9bcbd2301b9493facabd9aa429947f, type: 3}
+  m_Name: ReferenceHolder
+  m_EditorClassIdentifier: 
+  GridSlotPrefab: {fileID: 2981561058500974155, guid: 33ff37387e9a34fdba8723870299b731, type: 3}
+  PassengerPrefab: {fileID: 2939364109968120418, guid: d13545e88c95a404687cd6c3c1a0662e, type: 3}
+  BusPrefab: {fileID: 8937108845535871341, guid: 46ccd0db0efe24d57872bacf3a35c962, type: 3}
+  QueueSlotPrefab: {fileID: 6846792357591336672, guid: 06b2d1097b60f4f159f511e658cde757, type: 3}
